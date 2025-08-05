@@ -1,0 +1,11 @@
+#text-display span.correct {
+  color: green;
+}
+
+#text-display span.incorrect {
+  color: red;
+}
+
+#result {
+  display: none;
+}
